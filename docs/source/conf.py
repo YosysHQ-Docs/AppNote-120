@@ -1,3 +1,7 @@
+project = "YosysHQ-AppNote-120"
+author = "YosysHQ Gmbh"
+copyright ="2021 YosysHQ Gmbh"
+
 # https://stackoverflow.com/questions/40641252/how-can-i-avoid-the-horizontal-scrollbar-in-a-rest-table
 def setup(app):
         app.add_css_file('custom.css')
